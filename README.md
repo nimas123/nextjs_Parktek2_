@@ -1,5 +1,16 @@
-# praktek-nextjs
+## Data Diri
 
-Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
+|      |      |
+|-------------|-------------|
+| NIM| 22104410051|
+| Nama| Nimas Ayu Anggun Kharisma|
+| Kelas| TI-A|
+| Dosen Pengampu| [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat/mrhmt80.git) |
 
-Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda 
+
+## PEMROGRAMAN API
+
+|     |      |     |
+|-------------|-------------|-------------|
+| _No_| _Latihan_| _Detail_|
+| 2| Latihan 2| Mencoba Clonning NextJs|
